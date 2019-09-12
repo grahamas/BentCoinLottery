@@ -9,7 +9,7 @@
 
 library(stats)
 
-# Small edit! from class 1!
+# Small edit! from class 3!
 
 arr <- array(0,10)
 for (i in 1:10){
